@@ -1,4 +1,4 @@
-# FUTURE_CS_02
+# Phishing Detection & Awareness Report
 Cybersecurity project analyzing phishing attacks and promoting user awareness.
 # Phishing Detection & Awareness Report
 
