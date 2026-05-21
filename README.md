@@ -1,6 +1,5 @@
 # Phishing Detection & Awareness Report
 Cybersecurity project analyzing phishing attacks and promoting user awareness.
-# Phishing Detection & Awareness Report
 
 ## 📌 Overview
 This project focuses on analyzing phishing email samples to identify common attack patterns, classify risks, and promote cybersecurity awareness.
